@@ -56,7 +56,7 @@
 <br><br>
 
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ s</i> &ensp;🛠️</h2>
-<img align="left" height="275px" width="275px" alt="" src="./images/yzziv-cyber.png" />
+<img align="left" height="275px" width="275px" alt="" src="./images/yzziv-anime-1.png" />
 <table align="right" height="300px" width="275px" style="width: 650px; padding: 10px 0px 10px 10px;">
   <tr>
     <!-- <td align="center">
@@ -251,7 +251,7 @@
   <a href="https://www.instagram.com/vitor.cpp/" alt="" target="_blank">
     <img src="./images/button/instagram.svg" alt="">
   </a>
-  <img src="./images/button/discord.svg" alt="">
+ <!--  <img src="./images/button/discord.svg" alt=""> -->
 </p>
 <br><br><br>
 
