@@ -4,7 +4,7 @@
 
   <ul align="left" style="padding-right: 340px;">
     <li>🗿 Tecnologia, academia, café e códigos. 🍷</li><br>
-    <li>🗿 Me chamo Vitor, inicando na programação em  01/2023, atualmente iniciando e aprendendo, quanto mais absorvo, mais fico focado, principalmente quando é algo que me interesso 🍷</li><br>
+    <li>🗿 Me chamo Vitor, iniciando na programação em  01/2023, atualmente errando e aprendendo, quanto mais absorvo, mais fico focado, principalmente quando é algo que me interesso 🍷</li><br>
     <li>🗿 Meu objetivo no futuro próximo, é me tornar um Desenvolvedor Full-stack (Frontend e Backend). 🍷</li><br>
     <li><i>🕊️ "Alis volat propriis" 🕊️</i></li><br>
   </ul>
