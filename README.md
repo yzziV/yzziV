@@ -16,6 +16,14 @@
   <img align="right" src="./images/cyber-03.png" height="345px" width="345px" alt="">
   
   <table height="365px" width="365px">
+     <tr>
+      <td>
+      <a href="https://github.com/yzziV/portifolio-Vitor" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yzziV&repo=portfolio-Vitor&theme=tokyonight&hide_border=true">
+      </a>
+      </td>
+    </tr>
+    <tr>
     <tr>
       <td>
       <a href="https://github.com/yzziV/projeto-ifg-final" target="_blank">
