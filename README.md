@@ -16,6 +16,13 @@
   <img align="right" src="./images/cyber-03.png" height="345px" width="345px" alt="">
   
   <table height="365px" width="365px">
+        <tr>
+      <td>
+      <a href="https://github.com/yzziV/modulo-1-css3-html5" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yzziV&repo=modulo-1-css3-html5&theme=tokyonight&hide_border=true">
+      </a>
+      </td>
+    </tr>
     <tr>
       <td>
       <a href="https://github.com/yzziV/portfolio-Vitor" target="_blank">
