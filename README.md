@@ -18,15 +18,15 @@
   <table height="365px" width="365px">
      <tr>
       <td>
-      <a href="https://github.com/yzziV/modulo-2-html-css" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yzziV&repo=modulo-2-html-css&theme=tokyonight&hide_border=true">
+      <a href="https://github.com/yzziV/vitor-portfolio" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yzziV&repo=vitor-portfolio&theme=tokyonight&hide_border=true">
       </a>
       </td>
     </tr>
     <tr>
       <td>
-      <a href="https://github.com/yzziV/vitor-portfolio" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yzziV&repo=vitor-portfolio&theme=tokyonight&hide_border=true">
+      <a href="https://github.com/yzziV/modulo-2-html-css" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yzziV&repo=modulo-2-html-css&theme=tokyonight&hide_border=true">
       </a>
       </td>
     </tr>    
