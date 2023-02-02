@@ -265,7 +265,7 @@
   <a href="#" alt="">
     <img src="./images/button/curriculo.svg" alt="">
   </a>
-  <a href = "contatovitoraugusto@outlook.com" alt="-mail"><img src="./images/button/e-mail.svg" target="_blank">
+  <a href = "mailto:contatovitoraugusto@outlook.com" alt="-mail"><img src="./images/button/e-mail.svg" target="_blank">
   </a> 
   <a href="#" alt="" target="_blank">
     <img src="./images/button/portfolio.svg" alt="">
