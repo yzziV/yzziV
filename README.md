@@ -25,18 +25,11 @@
     </tr>
     <tr>
       <td>
-      <a href="https://github.com/yzziV/modulo-2-html-css" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yzziV&repo=modulo-2-html-css&theme=tokyonight&hide_border=true">
+      <a href="https://github.com/yzziV/html-css" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yzziV&repo=html-css&theme=tokyonight&hide_border=true">
       </a>
       </td>
     </tr>    
-    <tr>
-      <td>
-      <a href="https://github.com/yzziV/modulo-1-css3-html5" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yzziV&repo=modulo-1-css3-html5&theme=tokyonight&hide_border=true">
-      </a>
-      </td>
-    </tr>
     <tr>
       <td>
       <a href="https://github.com/yzziV/portfolio-Vitor" target="_blank">
