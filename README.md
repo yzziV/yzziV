@@ -29,7 +29,15 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yzziV&repo=html-css&theme=tokyonight&hide_border=true">
       </a>
       </td>
-    </tr>    
+    </tr> 
+    <tr>
+      <td>
+      <a href="https://github.com/yzziV/projeto-social" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yzziV&repo=projeto-social&theme=tokyonight&hide_border=true">
+      </a>
+      </td>
+    </tr>
+    <tr>
     <tr>
       <td>
       <a href="https://github.com/yzziV/portfolio-Vitor" target="_blank">
